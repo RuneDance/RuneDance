@@ -11,6 +11,9 @@
   </samp>
 </p>-->
 
-<div align="center">
+<!--<div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
-</div>
+</div>-->
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
